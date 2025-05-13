@@ -1,0 +1,312 @@
+[
+  {
+    "start_time": 1742585700000,
+    "end_time": 1742585759999,
+    "respiratory_rate": 0.0
+  },
+  {
+    "start_time": 1742585760000,
+    "end_time": 1742585819999,
+    "respiratory_rate": 0.0
+  },
+  {
+    "start_time": 1742585820000,
+    "end_time": 1742585879999,
+    "respiratory_rate": 0.0
+  },
+  {
+    "start_time": 1742585880000,
+    "end_time": 1742585939999,
+    "respiratory_rate": 0.0
+  },
+  {
+    "start_time": 1742585940000,
+    "end_time": 1742585999999,
+    "respiratory_rate": 0.0
+  },
+  {
+    "start_time": 1742586000000,
+    "end_time": 1742586059999,
+    "respiratory_rate": 0.0
+  },
+  {
+    "start_time": 1742586060000,
+    "end_time": 1742586119999,
+    "respiratory_rate": 17.34375
+  },
+  {
+    "start_time": 1742586120000,
+    "end_time": 1742586179999,
+    "respiratory_rate": 16.359375
+  },
+  {
+    "start_time": 1742586180000,
+    "end_time": 1742586239999,
+    "respiratory_rate": 15.670313
+  },
+  {
+    "start_time": 1742586240000,
+    "end_time": 1742586299999,
+    "respiratory_rate": 15.187969
+  },
+  {
+    "start_time": 1742586300000,
+    "end_time": 1742586359999,
+    "respiratory_rate": 15.975328
+  },
+  {
+    "start_time": 1742586360000,
+    "end_time": 1742586419999,
+    "respiratory_rate": 16.52648
+  },
+  {
+    "start_time": 1742586420000,
+    "end_time": 1742586479999,
+    "respiratory_rate": 16.77166
+  },
+  {
+    "start_time": 1742586480000,
+    "end_time": 1742586539999,
+    "respiratory_rate": 16.099537
+  },
+  {
+    "start_time": 1742586540000,
+    "end_time": 1742586599999,
+    "respiratory_rate": 15.629051
+  },
+  {
+    "start_time": 1742586600000,
+    "end_time": 1742586659999,
+    "respiratory_rate": 15.29971
+  },
+  {
+    "start_time": 1742586660000,
+    "end_time": 1742586719999,
+    "respiratory_rate": 15.069172
+  },
+  {
+    "start_time": 1742586720000,
+    "end_time": 1742586779999,
+    "respiratory_rate": 14.204672
+  },
+  {
+    "start_time": 1742586780000,
+    "end_time": 1742586839999,
+    "respiratory_rate": 15.005771
+  },
+  {
+    "start_time": 1742586840000,
+    "end_time": 1742586899999,
+    "respiratory_rate": 15.099231
+  },
+  {
+    "start_time": 1742586960000,
+    "end_time": 1742587019999,
+    "respiratory_rate": 16.475712
+  },
+  {
+    "start_time": 1742587020000,
+    "end_time": 1742587079999,
+    "respiratory_rate": 17.439247
+  },
+  {
+    "start_time": 1742587080000,
+    "end_time": 1742587139999,
+    "respiratory_rate": 18.113724
+  },
+  {
+    "start_time": 1742587140000,
+    "end_time": 1742587199999,
+    "respiratory_rate": 18.585855
+  },
+  {
+    "start_time": 1742587200000,
+    "end_time": 1742587259999,
+    "respiratory_rate": 18.640938
+  },
+  {
+    "start_time": 1742587260000,
+    "end_time": 1742587319999,
+    "respiratory_rate": 16.704906
+  },
+  {
+    "start_time": 1742587320000,
+    "end_time": 1742587379999,
+    "respiratory_rate": 16.474686
+  },
+  {
+    "start_time": 1742587380000,
+    "end_time": 1742587439999,
+    "respiratory_rate": 16.313532
+  },
+  {
+    "start_time": 1742587440000,
+    "end_time": 1742587499999,
+    "respiratory_rate": 17.466347
+  },
+  {
+    "start_time": 1742587500000,
+    "end_time": 1742587559999,
+    "respiratory_rate": 18.273317
+  },
+  {
+    "start_time": 1742587560000,
+    "end_time": 1742587619999,
+    "respiratory_rate": 18.135073
+  },
+  {
+    "start_time": 1742587620000,
+    "end_time": 1742587679999,
+    "respiratory_rate": 18.118944
+  },
+  {
+    "start_time": 1742587680000,
+    "end_time": 1742587739999,
+    "respiratory_rate": 18.02701
+  },
+  {
+    "start_time": 1742587740000,
+    "end_time": 1742587799999,
+    "respiratory_rate": 17.822033
+  },
+  {
+    "start_time": 1742587800000,
+    "end_time": 1742587859999,
+    "respiratory_rate": 17.678547
+  },
+  {
+    "start_time": 1742587860000,
+    "end_time": 1742587919999,
+    "respiratory_rate": 17.578108
+  },
+  {
+    "start_time": 1742587920000,
+    "end_time": 1742587979999,
+    "respiratory_rate": 17.648426
+  },
+  {
+    "start_time": 1742587980000,
+    "end_time": 1742588039999,
+    "respiratory_rate": 18.682024
+  },
+  {
+    "start_time": 1742588040000,
+    "end_time": 1742588099999,
+    "respiratory_rate": 18.983667
+  },
+  {
+    "start_time": 1742588100000,
+    "end_time": 1742588159999,
+    "respiratory_rate": 19.194817
+  },
+  {
+    "start_time": 1742588160000,
+    "end_time": 1742588219999,
+    "respiratory_rate": 18.86789
+  },
+  {
+    "start_time": 1742588220000,
+    "end_time": 1742588279999,
+    "respiratory_rate": 17.004396
+  },
+  {
+    "start_time": 1742588280000,
+    "end_time": 1742588339999,
+    "respiratory_rate": 15.699953
+  },
+  {
+    "start_time": 1742588340000,
+    "end_time": 1742588399999,
+    "respiratory_rate": 15.80558
+  },
+  {
+    "start_time": 1742588400000,
+    "end_time": 1742588459999,
+    "respiratory_rate": 16.407656
+  },
+  {
+    "start_time": 1742588460000,
+    "end_time": 1742588519999,
+    "respiratory_rate": 16.969734
+  },
+  {
+    "start_time": 1742588520000,
+    "end_time": 1742588579999,
+    "respiratory_rate": 17.222565
+  },
+  {
+    "start_time": 1742588580000,
+    "end_time": 1742588639999,
+    "respiratory_rate": 17.399546
+  },
+  {
+    "start_time": 1742588640000,
+    "end_time": 1742588699999,
+    "respiratory_rate": 17.664055
+  },
+  {
+    "start_time": 1742588700000,
+    "end_time": 1742588759999,
+    "respiratory_rate": 17.849215
+  },
+  {
+    "start_time": 1742588760000,
+    "end_time": 1742588819999,
+    "respiratory_rate": 17.697575
+  },
+  {
+    "start_time": 1742588820000,
+    "end_time": 1742588879999,
+    "respiratory_rate": 17.591427
+  },
+  {
+    "start_time": 1742588880000,
+    "end_time": 1742588939999,
+    "respiratory_rate": 17.517124
+  },
+  {
+    "start_time": 1742588940000,
+    "end_time": 1742588999999,
+    "respiratory_rate": 17.46511
+  },
+  {
+    "start_time": 1742589000000,
+    "end_time": 1742589059999,
+    "respiratory_rate": 17.428703
+  },
+  {
+    "start_time": 1742589060000,
+    "end_time": 1742589119999,
+    "respiratory_rate": 0.0
+  },
+  {
+    "start_time": 1742589120000,
+    "end_time": 1742589179999,
+    "respiratory_rate": 0.0
+  },
+  {
+    "start_time": 1742589180000,
+    "end_time": 1742589239999,
+    "respiratory_rate": 17.262592
+  },
+  {
+    "start_time": 1742589240000,
+    "end_time": 1742589299999,
+    "respiratory_rate": 17.146315
+  },
+  {
+    "start_time": 1742589300000,
+    "end_time": 1742589359999,
+    "respiratory_rate": 17.06492
+  },
+  {
+    "start_time": 1742589360000,
+    "end_time": 1742589419999,
+    "respiratory_rate": 17.289194
+  },
+  {
+    "start_time": 1742589420000,
+    "end_time": 1742589479999,
+    "respiratory_rate": 17.446186
+  }
+]

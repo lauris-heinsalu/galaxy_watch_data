@@ -1,0 +1,10 @@
+﻿com.samsung.shealth.badge,6295017,1
+number_of_streak,start_time,exercise_type,device_type,status,sleep_coaching_session_uuid,update_time,create_time,source_pkg_name,key,program_id,is_shown,time_offset,extra_data,deviceuuid,pkg_name,exercise_data_uuid,controller_id,end_time,datauuid
+,2024-07-04 08:15:19.581,,,1,,2024-07-04 08:15:19.805,2024-07-04 08:15:19.805,,sleep_goal_first_sleep,,,UTC+0200,,64Z1605Zgy,com.sec.android.app.shealth,,Sleep.Goal,2024-07-04 08:15:19.581,fa540fdd-7be7-4d40-8de6-958fd09ef6d2,
+,2024-07-04 12:51:00.592,,,1,,2024-07-04 12:51:01.210,2024-07-04 12:51:01.210,,weight_first_body_check,,,UTC+0200,,ooOmDJ1LSk,com.sec.android.app.shealth,,tracker.weight,2024-07-04 12:51:00.592,911edb0d-5796-4cd8-9c0a-65b712681919,
+1,2024-07-15 22:00:00.000,,,1,,2024-07-16 08:28:12.894,2024-07-16 08:28:12.894,,sleep_good_sleep,,,UTC+0200,,64Z1605Zgy,com.sec.android.app.shealth,,Sleep.Goal,2024-07-16 21:59:59.999,0d2b7bac-c65d-4e3d-97f2-fefd30c89447,
+1,2025-03-04 23:00:00.000,,,1,,2025-03-06 15:50:20.613,2025-03-06 15:50:20.613,,sleep_excellent_sleep,,,UTC+0100,,64Z1605Zgy,com.sec.android.app.shealth,,Sleep.Goal,2025-03-05 22:59:59.999,f6c1bd05-1639-4d0e-8dd2-e165778445e2,
+,2025-03-05 00:00:00.000,,,1,,2025-03-06 15:50:22.022,2025-03-06 15:50:22.022,,vitality_first_measure,,,UTC+0000,,64Z1605Zgy,com.sec.android.app.shealth,,tracker.vitality,2025-03-05 00:00:00.000,c5a0a93b-7aa4-4a21-9515-5815ae62dbb2,
+,2025-03-05 00:00:00.000,,,1,,2025-03-06 15:50:22.156,2025-03-06 15:50:22.156,,vitality_good,,,UTC+0000,,64Z1605Zgy,com.sec.android.app.shealth,,tracker.vitality,2025-03-05 00:00:00.000,8f627cbe-4781-4c44-ab15-08b218cc05d2,
+1,2025-03-22 23:00:00.000,,,1,,2025-03-23 07:45:40.653,2025-03-23 07:45:40.653,,sleep_excellent_sleep,,,UTC+0100,,64Z1605Zgy,com.sec.android.app.shealth,,Sleep.Goal,2025-03-23 22:59:59.999,cba6a56e-b22d-4b30-9109-f158edb4158f,
+1,2025-05-01 00:00:00.000,,,0,,2025-05-10 17:57:34.259,2025-05-04 06:54:36.582,,daily_activity_month_streak_may,,,UTC+0000,{"a":false},64Z1605Zgy,com.sec.android.app.shealth,,tracker.daily_activity,2025-05-10 00:00:00.000,33ee764f-7f73-47e2-8232-83905188d0ef,

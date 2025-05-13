@@ -1,0 +1,9 @@
+﻿com.samsung.health.device_profile,6295017,9
+manufacturer,providing_step_goal,create_sh_ver,step_source_group,device_type,backsync_step_goal,capability,modify_sh_ver,device_group,update_time,create_time,name,model,legacy_deviceuuid,connectivity_type,deviceuuid,pkg_name,accessory_type,fixed_name,datauuid
+OPPO,,,,,,,,360001,2024-07-03 09:12:07.987,2024-07-03 09:12:07.987,My Device,CPH2271,,,64Z1605Zgy,com.sec.android.app.shealth,,,9c3d069e-8081-f724-8174-592b1ad3ea50,
+Combined,,,,,,,,0,2024-07-03 09:12:25.678,2024-07-03 09:12:25.678,Combined,Combined,,,VfS0qUERdZ,com.sec.android.app.shealth,,,7af9722c-cd99-07b7-853a-43ce58e819c5,
+all_target,,,,,,,,0,2024-07-03 09:12:26.563,2024-07-03 09:12:26.563,all_target,all_target,,,Mk66SbFqK1,com.sec.android.app.shealth,,,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+Samsung Electronics,1,62670070,106,10058,1,f2ef00a1-d5e6-4ba3-984c-d30555028042.capability.json,62670070,360003,2024-07-06 22:38:43.964,2024-07-03 08:32:08.296,Galaxy Watch6,SM-R930,,,ooOmDJ1LSk,com.sec.android.app.shealth,,,f2ef00a1-d5e6-4ba3-984c-d30555028042,
+Samsung Electronics,1,62670070,106,10058,1,db808d9c-f674-42a2-8bfb-3cfdd96d2276.capability.json,62720090,360003,2024-09-07 09:19:52.819,2024-07-10 10:26:16.156,Galaxy Watch6,SM-R930,,,C8oz8zt6m4,com.sec.android.app.shealth,,,db808d9c-f674-42a2-8bfb-3cfdd96d2276,
+Samsung Electronics,1,,106,10058,1,0a15a11b-5c54-4f5b-81c1-687fc1207797.capability.json,62930070,360003,2025-03-06 15:49:50.409,2024-09-07 09:31:26.213,Galaxy Watch6,SM-R930,,,r7FYwmiDQH,com.sec.android.app.shealth,,,0a15a11b-5c54-4f5b-81c1-687fc1207797,
+Samsung Electronics,1,,108,10061,1,e18635b9-561d-4cab-8c14-3a1430d90c17.capability.json,,360003,2025-05-06 09:10:46.788,2024-12-16 07:57:19.815,Galaxy Watch7,SM-L310,,,NA9l677+ml,com.sec.android.app.shealth,,,e18635b9-561d-4cab-8c14-3a1430d90c17,

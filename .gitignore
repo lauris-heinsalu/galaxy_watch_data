@@ -1,0 +1,23 @@
+# Environnement virtuel
+venv/
+env/
+.env/
+.venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution/packaging
+dist/
+build/
+*.egg-info/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# Fichiers IDE
+.idea/
+.vscode/
