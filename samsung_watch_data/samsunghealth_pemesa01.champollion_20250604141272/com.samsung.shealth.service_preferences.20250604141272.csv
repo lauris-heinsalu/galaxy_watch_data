@@ -1,0 +1,8 @@
+﻿com.samsung.shealth.service_preferences,6301003,1
+text_value,service_id,float_value,update_time,create_time,long_value,key,tag,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+,,,2025-05-14 16:20:25.392,2025-05-14 16:20:25.392,,oobe.completed,,,1,6ELqGFWjt8,com.sec.android.app.shealth,,925a90a8-da28-43d3-a935-f76ad6d9c63c,
+,tracker.daily_activity,,2025-06-02 12:16:14.667,2025-05-14 10:08:07.900,1748873774658,da_yesterday_all_checked_time,,,,HFrhKp8clb,com.sec.android.app.shealth,,da_yesterday_all_checked_time,
+"{""05-measure.period"":2,""05-alert.high.enable"":0,""05-alert.low.enable"":0,""08-measure.period"":1,""10-measure.period"":1,""06-skin_temp_enable"":0,""06-snore_setting"":0,""06-snore_setting_new"":0,""37-skin_temp_enable"":0,""34-detection.workout.enable"":0,""44-age.setting.enable"":0,""08-alert.high.enable"":0}",app.settings,,2025-06-04 08:50:00.338,2025-05-14 10:05:50.812,,psm_plus_settings,,,,HFrhKp8clb,com.sec.android.app.shealth,,psm_plus_settings,
+"{""05-measure.period"":2,""05-alert.high.enable"":0,""05-alert.low.enable"":0,""08-measure.period"":1,""10-measure.period"":1,""06-skin_temp_enable"":0,""06-snore_setting"":0,""06-snore_setting_new"":0,""37-skin_temp_enable"":0,""34-detection.workout.enable"":0,""44-age.setting.enable"":0,""08-alert.high.enable"":0}",app.settings,,2025-06-04 08:50:00.376,2025-05-14 10:05:50.818,,psm_plus_settings_new,,,,HFrhKp8clb,com.sec.android.app.shealth,,psm_plus_settings_new,
+,app.settings,,2025-06-04 08:50:00.427,2025-05-14 10:05:50.812,,psm_plus_enable,,,0,HFrhKp8clb,com.sec.android.app.shealth,,psm_plus_enable,
+,app.settings,,2025-06-04 08:50:00.452,2025-05-14 10:05:50.812,,psm_plus_enable_new,,,0,HFrhKp8clb,com.sec.android.app.shealth,,psm_plus_enable_new,

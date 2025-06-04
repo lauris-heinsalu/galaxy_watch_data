@@ -1,0 +1,6 @@
+﻿com.samsung.shealth.badge,6301003,1
+number_of_streak,start_time,exercise_type,device_type,status,sleep_coaching_session_uuid,update_time,create_time,source_pkg_name,key,program_id,is_shown,time_offset,extra_data,deviceuuid,pkg_name,exercise_data_uuid,controller_id,end_time,datauuid
+1,2025-05-14 22:00:00.000,,,1,,2025-05-19 07:57:10.158,2025-05-19 07:57:10.158,,sleep_good_sleep,,,UTC+0200,,6ELqGFWjt8,com.sec.android.app.shealth,,Sleep.Goal,2025-05-15 21:59:59.999,0f4c1708-0517-401b-a1a3-ee1ee23f3b88,
+1,2025-05-14 22:00:00.000,,,1,,2025-05-19 07:57:10.203,2025-05-19 07:57:10.203,,sleep_goal_first_sleep,,,UTC+0200,,6ELqGFWjt8,com.sec.android.app.shealth,,Sleep.Goal,2025-05-15 21:59:59.999,432e6f1e-7c52-48bc-8508-e3dc1bc74093,
+,2025-05-15 00:00:00.000,,,1,,2025-05-19 07:57:12.006,2025-05-19 07:57:12.006,,vitality_first_measure,,,UTC+0000,,6ELqGFWjt8,com.sec.android.app.shealth,,tracker.vitality,2025-05-15 00:00:00.000,7cd49ea9-dc50-40f2-b0ad-121ba3d158a3,
+0,2025-06-01 00:00:00.000,,,2,,2025-06-04 12:09:53.024,2025-05-31 23:13:00.781,,daily_activity_month_streak_jun,,,UTC+0000,{"a":false},6ELqGFWjt8,com.sec.android.app.shealth,,tracker.daily_activity,2025-06-04 00:00:00.000,0bb2cf9e-ed43-4624-b2bd-13f00a33213d,

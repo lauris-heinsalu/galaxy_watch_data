@@ -1,0 +1,8 @@
+﻿com.samsung.shealth.tracker.floors_day_summary,6301003,1
+create_sh_ver,binning_data,modify_sh_ver,update_time,create_time,floor_count,version_code,deviceuuid,pkg_name,datauuid,day_time
+62950170,bb72e977-09fb-4a3b-a41f-bd3114c78f6b.binning_data.json,62950170,2025-05-14 16:25:38.486,2025-05-14 16:25:38.486,0,2,6ELqGFWjt8,com.sec.android.app.shealth,bb72e977-09fb-4a3b-a41f-bd3114c78f6b,1747180800000,
+62950170,636e92d7-9150-4b15-9dff-b39fcc960edc.binning_data.json,63010030,2025-06-02 12:19:16.658,2025-05-22 07:47:23.650,2,2,6ELqGFWjt8,com.sec.android.app.shealth,636e92d7-9150-4b15-9dff-b39fcc960edc,1747699200000,
+62950170,3c5a4224-4f22-4ecf-9180-f808a4563723.binning_data.json,63010030,2025-06-02 12:19:16.262,2025-05-22 15:44:19.734,1,2,6ELqGFWjt8,com.sec.android.app.shealth,3c5a4224-4f22-4ecf-9180-f808a4563723,1747872000000,
+62950170,455722fd-b4bf-4217-9c5a-68cb469d1dc0.binning_data.json,63010030,2025-06-02 12:19:16.489,2025-05-28 06:57:20.633,5,2,6ELqGFWjt8,com.sec.android.app.shealth,455722fd-b4bf-4217-9c5a-68cb469d1dc0,1748390400000,
+62950170,34ed951e-5f6b-481a-a248-8009cf17af14.binning_data.json,63010030,2025-06-02 12:19:16.561,2025-05-30 09:27:45.203,1,2,6ELqGFWjt8,com.sec.android.app.shealth,34ed951e-5f6b-481a-a248-8009cf17af14,1748563200000,
+63010030,e8dd9000-89b5-40b2-b157-1a89049440e2.binning_data.json,63010030,2025-06-04 08:38:12.187,2025-06-02 12:19:16.439,3,2,6ELqGFWjt8,com.sec.android.app.shealth,e8dd9000-89b5-40b2-b157-1a89049440e2,1748822400000,

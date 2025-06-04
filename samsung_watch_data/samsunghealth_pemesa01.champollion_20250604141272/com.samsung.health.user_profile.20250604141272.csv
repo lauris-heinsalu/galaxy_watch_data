@@ -1,0 +1,14 @@
+﻿com.samsung.health.user_profile,6301003,10
+text_value,create_sh_ver,float_value,modify_sh_ver,update_time,create_time,long_value,key,blob_value,int_value,deviceuuid,pkg_name,double_value,datauuid
+kg,,,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,weight_unit,,,6ELqGFWjt8,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000007,
+cm,,,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,height_unit,,,6ELqGFWjt8,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000009,
+km,,,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,distance_unit,,,6ELqGFWjt8,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000c,
+C,,,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,temperature_unit,,,6ELqGFWjt8,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000d,
+mg/dL,,,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,blood_glucose_unit,,,6ELqGFWjt8,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000e,
+%,,,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,hba1c_unit,,,6ELqGFWjt8,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000012,
+mmHg,,,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,blood_pressure_unit,,,6ELqGFWjt8,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000013,
+ml,,,,1970-01-01 00:00:00.001,1970-01-01 00:00:00.001,,water_unit,,,6ELqGFWjt8,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000014,
+20000101,62950170,,62950170,2025-05-14 16:20:16.050,2025-05-14 16:20:16.134,,birth_date,,,6ELqGFWjt8,com.sec.android.app.shealth,,00000000-0000-0000-0000-00000000000a,
+FRA,62950170,,62950170,2025-05-14 16:20:16.406,2025-05-14 16:20:16.441,,country,,,6ELqGFWjt8,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000001,
+,62950170,,62950170,2025-05-14 16:20:27.692,2025-05-14 16:20:27.703,,social_id,,,6ELqGFWjt8,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000015,
+,62950170,,62950170,2025-05-30 13:54:30.999,2025-05-14 16:20:31.759,,dashboard_config,00000000-0000-0000-0000-000000000016.dashboard_config.json,,6ELqGFWjt8,com.sec.android.app.shealth,,00000000-0000-0000-0000-000000000016,
