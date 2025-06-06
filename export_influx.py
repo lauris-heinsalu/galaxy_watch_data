@@ -1,36 +1,44 @@
 from influxdb_client import InfluxDBClient, Point, WriteOptions
 from influxdb_client.client.write_api import SYNCHRONOUS
-import datetime
 
 # Paramètres de connexion
 url = "http://localhost:8086"
-token = " "
-org = " "
-bucket = " "
+token = "SO-wMqIzfS9wMn4Gyu94GKteCcaklwnSS1UOxZ_dRfo73r8A8OTA3-vEn6484fe3vOOSLDoS_0MI6tsRj9jvcQ=="
+org = "pemesa"
+bucket = "galaxy-watch-data"
 
 # Connexion au client InfluxDB
 client = InfluxDBClient(url=url, token=token, org=org)
 write_api = client.write_api(write_options=SYNCHRONOUS)
 
-# Exemple de données
-timestamps = [
-    "2024-06-05T10:00:00Z",
-    "2024-06-05T10:01:00Z",
-    "2024-06-05T10:02:00Z",
-    # ... etc.
-]
+import datetime
+
 sdnn_values = [32.96, 37.36, 43.24]
 rmssd_values = [27.96, 29.97, 31.94]
 
-# Envoi des données
-for t, sdnn, rmssd in zip(timestamps, sdnn_values, rmssd_values):
-    point = (
-        Point("hrv")
-        .tag("user", "user123")
-        .field("sdnn", sdnn)
-        .field("rmssd", rmssd)
-        .time(t)
-    )
-    write_api.write(bucket=bucket, org=org, record=point)
+# Timestamp de départ
+start_time = datetime.datetime(2025, 6, 2, 21, 0)
 
-print("Données envoyées avec succès")
+# Génération automatique
+timestamps = [
+    (start_time + datetime.timedelta(minutes=i)).isoformat() + "Z"
+    for i in range(len(sdnn_values))
+]
+
+
+# Envoi des données
+try:
+    for t, sdnn, rmssd in zip(timestamps, sdnn_values, rmssd_values):
+        point = (
+            Point("hrv")
+            .tag("user", "AS3")
+            .field("sdnn", sdnn)
+            .field("rmssd", rmssd)
+            .time(t)
+        )
+        write_api.write(bucket=bucket, org=org, record=point)
+
+    print("Données envoyées avec succès")
+
+except Exception as e:
+    print("Erreur lors de l'envoi des données :", e)
