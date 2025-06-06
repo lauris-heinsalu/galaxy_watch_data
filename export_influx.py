@@ -4,9 +4,9 @@ import datetime
 
 # Paramètres de connexion
 url = "http://localhost:8086"
-token = ""
-org = ""
-bucket = ""
+token = " "
+org = " "
+bucket = " "
 
 # Connexion au client InfluxDB
 client = InfluxDBClient(url=url, token=token, org=org)
