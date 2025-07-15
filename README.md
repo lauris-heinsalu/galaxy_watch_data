@@ -1,7 +1,7 @@
 # Créer un environnement virtuel
 ```bash
-python -m venv venv
-./venv/bin/activate
+python -m venv .venv
+source .venv/bin/activate
 ```
 
 # Installer les dépendances
@@ -9,6 +9,5 @@ python -m venv venv
 ```bash
 pip install -r requirements.txt
 ```
-modif
 
 [Références](references.md)
