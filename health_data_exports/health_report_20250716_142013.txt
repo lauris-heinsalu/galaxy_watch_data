@@ -1,0 +1,14 @@
+SAMSUNG GALAXY WATCH HEALTH ANALYSIS REPORT
+==================================================
+
+Generated: 2025-07-16 14:20:13
+Device: 64Z1605Zgy
+
+DATA SUMMARY:
+  • Analysis period: N/A days
+  • Heart rate records: 0
+  • Sleep sessions: 0
+  • Activity records: 0
+  • Exercise sessions: 0
+  • Stress measurements: 0
+

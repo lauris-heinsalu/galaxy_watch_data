@@ -99,7 +99,7 @@ def process_binned_data(csv_row_time, json_filename, write_api, measurement_name
         with open(json_path, 'r') as jsonfile:
             try:
                 json_data = json.load(jsonfile)
-                # TODO : some json files are lists, some are dicts, we should handle both cases
+                # Some json files are lists, some are dicts, we should handle both cases
                 if not isinstance(json_data, list):
                      json_data = [json_data]  # Wrap in a list if it's a single dict
                 points = []
