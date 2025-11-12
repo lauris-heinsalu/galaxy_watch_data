@@ -1,4 +1,0 @@
-﻿com.samsung.health.floors_climbed,6305105,7
-start_time,custom,update_time,create_time,client_data_id,client_data_ver,floor,raw_data,time_offset,deviceuuid,pkg_name,end_time,datauuid
-2025-10-21 22:00:00.972,,2025-10-22 05:59:01.475,2025-10-22 05:59:01.475,,,1.0,43436963-0fa1-4dd3-b7da-11311a8e99ca.raw_data.json,UTC+0200,JMFttLc4BB,com.sec.android.app.shealth,2025-10-22 05:54:30.000,43436963-0fa1-4dd3-b7da-11311a8e99ca,
-2025-10-22 05:54:30.000,,2025-10-22 06:02:10.834,2025-10-22 06:02:10.834,,,1.0,c3221abd-4a5f-4ef8-a64a-2646ef697718.raw_data.json,UTC+0200,JMFttLc4BB,com.sec.android.app.shealth,2025-10-22 06:00:39.000,c3221abd-4a5f-4ef8-a64a-2646ef697718,

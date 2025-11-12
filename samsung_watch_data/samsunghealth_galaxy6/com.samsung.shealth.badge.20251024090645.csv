@@ -1,3 +1,0 @@
-﻿com.samsung.shealth.badge,6305105,1
-number_of_streak,start_time,exercise_type,device_type,status,sleep_coaching_session_uuid,update_time,create_time,source_pkg_name,key,program_id,is_shown,time_offset,extra_data,deviceuuid,pkg_name,exercise_data_uuid,controller_id,end_time,datauuid
-0,2025-10-01 00:00:00.000,,,0,,2025-10-24 07:05:50.579,2025-10-21 22:17:42.253,,daily_activity_month_streak_oct,,,UTC+0000,{"a":false},N7ZG3UhizK,com.sec.android.app.shealth,,tracker.daily_activity,2025-10-24 00:00:00.000,b8145435-bd2e-4879-8ffb-fbc77b929589,

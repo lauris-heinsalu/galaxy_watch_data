@@ -1,6 +1,0 @@
-﻿com.samsung.shealth.step_daily_trend,6305105,6
-binning_data,update_time,create_time,source_pkg_name,source_type,count,speed,distance,calorie,deviceuuid,pkg_name,datauuid,day_time
-da3d99bb-f195-45df-933d-cbc338578cf4.binning_data.json,2025-10-24 07:11:06.521,2025-10-22 05:55:10.027,com.sec.android.app.shealth,-2,3135,1.3108549,2347.8137,115.99779,VfS0qUERdZ,com.sec.android.app.shealth,da3d99bb-f195-45df-933d-cbc338578cf4,1761091200000,
-82022f90-6fcc-4a4a-909e-b320ea798dcf.binning_data.json,2025-10-22 23:34:47.944,2025-10-22 23:34:47.944,com.sec.android.app.shealth,0,721,1.3426547,547.1876,25.277864,6ELqGFWjt8,com.sec.android.app.shealth,82022f90-6fcc-4a4a-909e-b320ea798dcf,1761091200000,
-3add5ce2-8e5c-4b99-8571-a99241b0261c.binning_data.json,2025-10-22 23:34:48.842,2025-10-22 23:34:48.842,com.sec.android.app.shealth,108,2688,1.3088368,2009.93,99.63999,JMFttLc4BB,com.sec.android.app.shealth,3add5ce2-8e5c-4b99-8571-a99241b0261c,1761091200000,
-a3a49898-a8b5-4044-99d1-3c62d6273dfe.binning_data.json,2025-10-24 07:11:05.643,2025-10-24 07:11:05.643,com.sec.android.app.shealth,-2,10,0.9444444,6.84,0.4,VfS0qUERdZ,com.sec.android.app.shealth,a3a49898-a8b5-4044-99d1-3c62d6273dfe,1761264000000,
