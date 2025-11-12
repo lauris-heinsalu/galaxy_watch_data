@@ -1,0 +1,6 @@
+﻿com.samsung.health.device_profile,6305105,9
+manufacturer,providing_step_goal,create_sh_ver,step_source_group,device_type,backsync_step_goal,capability,modify_sh_ver,device_group,update_time,create_time,name,model,legacy_deviceuuid,connectivity_type,deviceuuid,pkg_name,accessory_type,fixed_name,datauuid
+OPPO,,,,,,,,360001,2025-10-21 19:07:28.714,2025-10-21 19:07:28.714,My Device,CPH2271,,,N7ZG3UhizK,com.sec.android.app.shealth,,,cb01d9de-9116-2dd5-a6d6-ac2879c85213,
+Combined,,,,,,,,0,2025-10-21 19:07:35.055,2025-10-21 19:07:35.055,Combined,Combined,,,VfS0qUERdZ,com.sec.android.app.shealth,,,7af9722c-cd99-07b7-853a-43ce58e819c5,
+all_target,,,,,,,,0,2025-10-21 19:07:35.982,2025-10-21 19:07:35.982,all_target,all_target,,,Mk66SbFqK1,com.sec.android.app.shealth,,,471ca32b-a665-1e9e-7c27-7ac69485dc05,
+Samsung Electronics,1,,106,10058,1,e29614f1-cd95-49dd-8d8b-8e8bedf44f60.capability.json,63051050,360003,2025-10-21 19:07:36.879,2025-10-21 18:51:32.614,Galaxy Watch6,SM-R930,,,52AmZFQIp0,com.sec.android.app.shealth,,,e29614f1-cd95-49dd-8d8b-8e8bedf44f60,
