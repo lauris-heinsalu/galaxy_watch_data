@@ -1,1 +1,0 @@
-"# samsunghealth_galaxy7" 
