@@ -3,7 +3,7 @@
 This contribution documents the schema of a Samsung Health personal-data export produced on 2026-09-30.
 
 ## Contents
-- `schema_manifest.csv`: all CSV dataset names, Samsung schema/version metadata, row counts, and column names from the export. No record-level health data or identifiers are included.
+- `schema_manifest.csv`: all CSV dataset names, Samsung schema/version metadata, and row counts from the export. No record-level health data or identifiers are included.
 - `ages_age_normalization.csv`: de-identified AGEs Index observations retained because they reveal an age-dependent change in Samsung's `level_boundary`. Exact dates and birth date are replaced by age and days relative to the 37th birthday.
 
 ## Privacy transformations
